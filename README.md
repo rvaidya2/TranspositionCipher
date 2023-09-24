@@ -8,7 +8,7 @@ How to compile and execute the program:
 2. Use the format given below to run test cases.
 
 Format to run the code:
-python3 trans.py "<keylength> <key> <inputfile> <outputfile> <enc/dec> "
+<!-- python3 trans.py <keylength> <key> <inputfile> <outputfile> <enc/dec> -->
 
 Run the code using the following/similar commands :
 python3 trans.py 7 3421567 input.txt output.txt enc
